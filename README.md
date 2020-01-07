@@ -1,4 +1,7 @@
+
+
 # Data Model Task
+
 
 ## Table of Contents
 
@@ -24,4 +27,5 @@ Project Link: [Data Model Task](https://github.com/Luzaks/Data_Model_Task)
 ## Acknowledgements
 
 * [Microverse](https://www.microverse.org/)
-*[The Odin Project](https://www.theodinproject.com/home)
+
+* [The Odin Project](https://www.theodinproject.com/home)
